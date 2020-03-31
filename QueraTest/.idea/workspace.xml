@@ -38,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -151,7 +154,7 @@
       <workItem from="1585557712728" duration="4640000" />
       <workItem from="1585632330019" duration="6579000" />
       <workItem from="1585656533062" duration="4254000" />
-      <workItem from="1585664281818" duration="2166000" />
+      <workItem from="1585664281818" duration="2775000" />
     </task>
     <servers />
   </component>
